@@ -1,4 +1,4 @@
----
+nagsjzvzhzv---
 manufacturer:
     - huawei
 
